@@ -5,7 +5,7 @@
 package entornos3t2;
 
 /**
- *
+ * Clase principal, sólo sirve para crear objetos y probar
  * @author PACO
  */
 public class Entornos3T2 {
