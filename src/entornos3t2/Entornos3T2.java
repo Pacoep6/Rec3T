@@ -35,9 +35,9 @@ public class Entornos3T2 {
     }
 
     public static void capturarLista(String[] pakemon, Pakemon juego1) {
-        for (int i = 0; i < pakemon.length; i++) {
+        for (String pakemon1 : pakemon) {
             if (juego1.getPakeballs() > 0) {
-                juego1.capturarPakemon(pakemon[i]);
+                juego1.capturarPakemon(pakemon1);
             } else {
                 System.out.println("No tienes Pakeballs");
             }
