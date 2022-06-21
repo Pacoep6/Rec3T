@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package entornos3t2;
-
+//Comentario para poder hacer la revisión definitiva debido a que añadí commit del readme.md borrado y ya no tenía nada en el working area
 /**
  * Clase principal, sólo sirve para crear objetos y probar
  *
